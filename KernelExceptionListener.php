@@ -1,3 +1,5 @@
+<?php
+
 namespace Application\BackendBundle\EventListener;
  
 use Symfony\Bundle\FrameworkBundle\Routing\Router;
